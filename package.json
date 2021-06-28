@@ -4,7 +4,8 @@
   "description": "Learning about webpack",
   "main": "index.js",
   "scripts": {
-    "build": "webpack -w"
+    "build": "webpack -w",
+    "start:dev": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
@@ -16,7 +17,8 @@
     "jquery": "^3.6.0",
     "url-loader": "^4.1.1",
     "webpack": "^4.28.4",
-    "webpack-cli": "^3.2.1"
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
     "@babel/preset-react": "^7.14.5",

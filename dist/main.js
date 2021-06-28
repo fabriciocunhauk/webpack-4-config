@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"h1 {\\r\\n    font-family: Arial;\\r\\n    color: salmon;\\r\\n}\\r\\n\\r\\n#image {\\r\\n    background: url('https://avatars.githubusercontent.com/u/60474481?v=4');\\r\\n    height: 500px;\\r\\n    width: 500px;\\r\\n}\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"h1 {\\r\\n    font-family: Arial;\\r\\n    color: salmon;\\r\\n}\\r\\n\\r\\n#image {\\r\\n    background: url('https://avatars.githubusercontent.com/u/60474481?v=4');\\r\\n    background-repeat: no-repeat;\\r\\n    height: 500px;\\r\\n    width: 500px;\\r\\n}\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
