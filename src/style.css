@@ -1,0 +1,10 @@
+h1 {
+    font-family: Arial;
+    color: salmon;
+}
+
+#image {
+    background: url('https://avatars.githubusercontent.com/u/60474481?v=4');
+    height: 500px;
+    width: 500px;
+}
